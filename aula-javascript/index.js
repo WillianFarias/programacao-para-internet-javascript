@@ -26,3 +26,15 @@ frutas = [{nome: 'uva', cor: 'roxa'}, {nome: 'maçã', cor: 'vermelha'}];
 
 console.log(frutas[0].nome);
 
+//condicionais
+/*var idade = prompt('Qual sua idade?');
+if (idade >= 18) {
+  alert('Maior de idade');
+} else {
+  alert('Menor de idade');
+}*/
+
+//Datas
+var d = new Date();
+console.log(d.getDay());
+
