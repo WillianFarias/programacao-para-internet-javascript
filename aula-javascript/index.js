@@ -20,3 +20,9 @@ console.log(lista.reverse());
 console.log(lista.toString());
 //altera o separador
 console.log(lista.join(" - "));
+
+//Dicionario
+frutas = [{nome: 'uva', cor: 'roxa'}, {nome: 'maçã', cor: 'vermelha'}];
+
+console.log(frutas[0].nome);
+
