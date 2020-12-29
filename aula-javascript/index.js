@@ -5,3 +5,7 @@ var idade = 27;
 console.log(nome.replace("Willian", "Samanta"));
 console.log(nome.toLowerCase());
 console.log(nome.toUpperCase());
+
+//array
+var lista = ['pera', 'uva', 'laranja'];
+console.log(lista[0]);
